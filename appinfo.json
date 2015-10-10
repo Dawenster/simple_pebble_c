@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "dstwen@gmail.com",
+    "longName": "Simple C",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Simple C",
+    "uuid": "2cd71053-ee37-4e7c-8db2-26c672d63d56",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
